@@ -45,9 +45,5 @@ public class Utils {
 	}
  
 }
-//"platformName": "Android",
-//"deviceName": "0039391454",
-//"automotionName": "uiautomator2",
-//"appPackage": "br.com.stone.ton",
-//"appActivity": "br.com.stone.ton.MainActivity"
+
 

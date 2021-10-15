@@ -14,8 +14,7 @@ public class Hooks {
 	
 	@Before
 	public void setUP() throws MalformedURLException, InterruptedException {
-		acessarApp();
-		
+		acessarApp();	
 	}
 	
 	@After
